@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/NYDrewReynolds/local-service-ops-api.git
+[submodule "dashboard"]
+	path = dashboard
+	url = https://github.com/NYDrewReynolds/local-service-ops-dashboard.git
